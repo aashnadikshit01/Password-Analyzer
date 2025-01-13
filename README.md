@@ -30,3 +30,6 @@ A sophisticated pink password strength analysis tool that combines traditional p
 - Identified strengths
 - Overall assessment
 - ML confidence indicators
+
+
+<img width="1358" alt="Screenshot 2025-01-14 at 12 30 38 AM" src="https://github.com/user-attachments/assets/473b80de-59e9-4026-98be-6391c1edaf35" />
