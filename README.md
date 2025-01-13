@@ -3,6 +3,7 @@
 A sophisticated password strength analysis tool that combines traditional password security metrics with machine learning to provide comprehensive password assessment and actionable feedback.
 
 **Features**
+
 🤖 Machine Learning Enhanced Analysis
 - Trained on 10 million real passwords
 - Gaussian Naive Bayes classification
