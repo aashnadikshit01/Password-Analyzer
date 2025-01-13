@@ -9,6 +9,7 @@ A sophisticated password strength analysis tool that combines traditional passwo
 - Gaussian Naive Bayes classification
 - ML confidence scoring
 - Feature importance analysis
+
 🔒 Comprehensive Security Checks
 - Password strength scoring
 - Entropy calculation
@@ -16,11 +17,13 @@ A sophisticated password strength analysis tool that combines traditional passwo
 - Character diversity analysis
 - Sequential pattern detection
 - Common password verification
+
 📊 Visual Analysis
 - Interactive progress bars
 - Real-time metric updates
 - Feature importance visualization
 - Normalized comparisons
+
 💡 Smart Feedback System
 - Categorized weaknesses
 - Specific improvement suggestions
