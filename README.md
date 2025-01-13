@@ -1,6 +1,6 @@
 **Password Strength Analyzer with ML**
 
-A sophisticated password strength analysis tool that combines traditional password security metrics with machine learning to provide comprehensive password assessment and actionable feedback.
+A sophisticated pink password strength analysis tool that combines traditional password security metrics with machine learning to provide comprehensive password assessment and actionable feedback.
 
 **Features**
 
